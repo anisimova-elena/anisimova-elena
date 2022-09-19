@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @anisimova-elena
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 🌿 I’m studying in RS School, stage#0 (start - 2022-05-31)
 - 🌊 Discord: fvtnbcn#9419
 - 📫 E-mail: elena.anis17@gmail.com
 
